@@ -47,6 +47,15 @@ public class Main {
 	System.out.println(" |");
 	System.out.println(" /\\");
 
+	System.out.println(1 + 7 + 8 + + 9 + 1 + + 9 + 1);
+	System.out.println(1 + 7 + " " + 8);
+	System.out.println(1 + 7 + 8 + " " + 9 + 1);
+
+	System.out.printf("%s","apluscompsci\n");
+	System.out.printf("%.2f\n",9.23467);
+	System.out.printf("%s","APCompsci\n");
+
+	System.out.println(3 + "\t" + 3);
 
 	int x = 100;
 	if(x < 100) {
